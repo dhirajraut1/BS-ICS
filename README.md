@@ -9,7 +9,7 @@ See the Bikaram Sambat dates right into your favourite calendar app.
 
 
 ## How to use
-1. Download the desired ics file
+1. Download the desired ics file (Eg. [2080 ics file](https://raw.githubusercontent.com/dhirajraut1/BS-ICS/main/2080/2080-all.ics) )
 2. Open your calendar
 3. Click on create new calendar
 4. Add the ics file
